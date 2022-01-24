@@ -1,6 +1,8 @@
 # fgma1
 
 A new Flutter project.
+![image](https://user-images.githubusercontent.com/63843401/150836041-302abf9c-41a0-4d6f-a99e-fa300f3179ae.png)
+
 
 ## Getting Started
 
